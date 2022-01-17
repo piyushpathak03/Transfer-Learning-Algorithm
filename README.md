@@ -1,4 +1,8 @@
 # Transfer-Learning-Algorithm-for-image-classification
+Transfer learning for machine learning is when existing models are reused to solve a new challenge or problem. Transfer learning is not a distinct type of machine learning algorithm, instead it’s a technique or method used whilst training models. The knowledge developed from previous training is recycled to help perform a new task. The new task will be related in some way to the previously trained task, which could be to categorise objects in a specific file type. The original trained model usually requires a high level of generalisation to adapt to the new unseen data.
+
+Transfer learning means that training won’t need to be restarted from scratch for every new task. Training new machine learning models can be resource-intensive, so transfer learning saves both resources and time. The accurate labelling of large datasets also takes a huge amount of time. The majority of data encountered by organisations can often be unlabelled, especially with the extensive datasets required to train a machine learning algorithm. With transfer learning, a model can be trained on an available labelled dataset, then be applied to a similar task that may involve unlabelled data.
+
 ### State of art algorithm
 Transfer learning (TL) is a research problem in machine learning (ML) that focuses on storing knowledge gained while solving one problem and applying it to a different but related problem. For example, knowledge gained while learning to recognize cars could apply when trying to recognize trucks.
 
